@@ -1,0 +1,10 @@
+{
+  "name": "Casal do Tráfego Financeiro",
+  "short_name": "CT Financeiro",
+  "description": "Clientes, mensalidades, Pix e despesas da Casal do Tráfego",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0c0d",
+  "theme_color": "#111111",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
